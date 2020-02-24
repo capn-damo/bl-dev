@@ -1,5 +1,7 @@
 #!/bin/bash
 #
+### Helium_Flatish_Grey theme colours (Crunchbang) ###
+#
 # written for BunsenLabs by damo <damo@bunsenlabs.org> May 2015
 # modified July 2017
 #

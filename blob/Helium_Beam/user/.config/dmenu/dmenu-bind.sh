@@ -1,5 +1,7 @@
 #!/bin/bash
 #
+# Helium_Beam theme colours
+#
 # written for BunsenLabs by damo <damo@bunsenlabs.org> May 2015
 # modified July 2017
 #
