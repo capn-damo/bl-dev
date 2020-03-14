@@ -33,16 +33,8 @@ if [[ $# = 1 ]]; then
     esac
 fi
 
-# BL-Hydrogen (Crunchbang):
-#dmenu_run -b -i -nb '#151617' -nf '#d8d8d8' -sb '#d8d8d8' -sf '#151617'
-
-# BL-Helium Beam theme
-# Bottom
-#dmenu_run -i -b -nb '#082B4A' -nf '#ADD8E6' -sb '#446F6C' -sf '#151617'
-# Top
-#dmenu_run -i -nb '#082B4A' -nf '#ADD8E6' -sb '#446F6C' -sf '#151617'
-
-# Yeti theme
-#dmenu_run -b -l 10 -i -nb '#292d31' -nf '#9ba8bb' -sb '#434950' -sf '#9ba8bb'
 # Yeti-Lith theme
+# Bottom
 dmenu_run -b -l 10 -i -nb '#292d31' -nf '#9ba8bb' -sb '#202326' -sf '#bc4b4f'
+# Top
+dmenu_run -l 10 -i -nb '#292d31' -nf '#9ba8bb' -sb '#202326' -sf '#bc4b4f'
